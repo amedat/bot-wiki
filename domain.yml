@@ -1,0 +1,29 @@
+slots:
+  objeto_pesquisa:
+    type: text
+
+entities:
+  - objeto_pesquisa
+
+intents:
+  - saudacao
+  - despedida
+  - afirmacao
+  - negacao
+  - pergunta
+
+actions:
+- utter_saudacao
+- utter_despedida
+- utter_pesquisar
+- action_get_wiki_data
+
+templates:
+  utter_saudacao:
+  - text: "Oi, como posso te ajudar?"
+
+  utter_despedida:
+  - text: "Até mais!"
+
+  utter_pesquisar:
+  - text: "Vou pesquisar..."
