@@ -25,4 +25,4 @@ The project bot just understant interactions in portuguese.
 
 ## :scroll: License
 
-This project is licensed under the [MIT license](https://github.com/debgustavocastro/environment-variables-example-php/blob/master/LICENSE).
+This project is licensed under the [MIT license](https://github.com/gustavocastro78/bot-wiki/blob/master/LICENSE).
